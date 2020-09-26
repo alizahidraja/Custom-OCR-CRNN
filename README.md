@@ -1,14 +1,16 @@
 # Custorm CRNN OCR
 
-Custom Convolutional Recurrent Neural Network OCR 
+## OCR
 
-The sole purpose of this repository is to teach people how to make custom OCR models using Deep Learning.
+OCR, or Optical Character Recognition, is a process of recognizing text inside images and converting it into an electronic form. These images could be of handwritten text, printed text like documents, receipts, name cards, etc., or even a natural scene photograph.
 
-The technique used here is known as CRNN.
+![OCR](models/ocr.png)
 
 
 
 ## CRNN Custom OCR Model
+
+Custom Convolutional Recurrent Neural Network OCR 
 
 ![Model](models/model_image.png)
 
@@ -40,3 +42,7 @@ The data set used in the training is Captcha dataset
 ![Captcha](data/sample/2b827.png)
 
 
+
+
+
+#### The sole purpose of this repository is to teach people how to make custom OCR models using Deep Learning.
