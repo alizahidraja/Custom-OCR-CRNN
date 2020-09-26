@@ -8,9 +8,9 @@ OCR, or Optical Character Recognition, is a process of recognizing text inside i
 
 
 
-## CRNN Custom OCR Model
+## Custom CRNN OCR Model
 
-Custom Convolutional Recurrent Neural Network OCR 
+Custom Convolutional Recurrent Neural Network OCR Model
 
 ![Model](models/model_image.png)
 
