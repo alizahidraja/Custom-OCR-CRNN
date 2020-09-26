@@ -16,6 +16,7 @@ Convolutional-recurrent neural network suggests a hybrid end to end architecture
 
 The idea goes as follows: the first level is a standard fully convolutional network. The last layer of the net is defined as feature layer and divided into “feature columns"
 See image:
+
 ![Feature](models/feature.png)
 
 
@@ -31,9 +32,10 @@ This paper reaches high (>95%) rates of accuracy with fixed text lexicon, and va
 
 
 
-The data set used in the training is Captcha dataset
 
-## Sample Data
+## Dataset
+
+The data set used in the training is Captcha dataset
 
 ![Captcha](data/sample/2b827.png)
 
