@@ -1,4 +1,4 @@
-# Custorm CRNN OCR
+# Custorm OCR CRNN
 
 ## OCR
 
@@ -8,9 +8,9 @@ OCR, or Optical Character Recognition, is a process of recognizing text inside i
 
 
 
-## Custom CRNN OCR Model
+## Custom OCR CRNN Model
 
-Custom Convolutional Recurrent Neural Network OCR Model
+Custom OCR Convolutional Recurrent Neural Network Model
 
 ![Model](models/model_image.png)
 
