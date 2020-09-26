@@ -42,7 +42,10 @@ The data set used in the training is Captcha dataset
 ![Captcha](data/sample/2b827.png)
 
 
+## Kaggle Notebook
+
+https://www.kaggle.com/alizahidraja/custom-ocr-crnn
 
 
 
-#### The sole purpose of this repository is to teach people how to make custom OCR models using Deep Learning.
+### The sole purpose of this repository is to teach people how to make custom OCR models using Deep Learning.
