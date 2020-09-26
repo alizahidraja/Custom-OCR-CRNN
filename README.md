@@ -2,7 +2,7 @@
 
 Custom Convolutional Recurrent Neural Network OCR 
 
-This repository is to learn how to make custom OCR models using Deep Learning.
+The sole purpose of this repository is to teach people how to make custom OCR models using Deep Learning.
 
 The technique used here is known as CRNN.
 
@@ -14,9 +14,11 @@ The image of the model:
 ![Model](models/model_image.png)
 
 
-The data set used in the training is captcha dataset
 
-## Captcha Data
+
+The data set used in the training is Captcha dataset
+
+## Sample Data
 
 ![Captcha](data/sample/2b827.png)
 
