@@ -41,6 +41,16 @@ The data set used in the training is Captcha dataset
 
 ![Captcha](data/sample/2b827.png)
 
+## Accuracy
+### Train: 95%
+### Test: 82%
+
+
+## Results
+
+![Result](models/result.png)
+
+
 
 ## Kaggle Notebook
 
